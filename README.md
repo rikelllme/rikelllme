@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-I'm a **Junior Developer** specializing in **Fullstack Development**, **Artificial Intelligence**, and **Process Automation**. Currently pursuing a degree in Systems Analysis and Development (expected graduation: December 2025) at Wyden Martha Falcão.
+I'm a **Developer** specializing in **Fullstack Development**, **Artificial Intelligence**, and **Process Automation**. Currently pursuing a degree in Systems Analysis and Development at Wyden Martha Falcão.
 
 Based in **Manaus, Amazonas** 🇧🇷, I'm fully available for relocation and remote work. I'm passionate about solving complex problems through innovative tech solutions, with a strong emphasis on continuous learning and collaboration in agile environments.
 
