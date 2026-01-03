@@ -140,12 +140,5 @@ Selenium scripts adapted to interact with Android emulators and web apps.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
   <h3>🚀 Always excited to collaborate on innovative projects! Let's build something amazing together! 💪</h3>
 </div>
